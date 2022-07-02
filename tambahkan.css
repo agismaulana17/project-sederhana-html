@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.class{
+	background-color: rgb(37, 118, 24);
+	width: 100%;
+	height: 40px;
+	padding: 5px 0;
+	color: white;
+}
+.class ul li{
+	display: inline-block;
+	margin-right: 10px;
+	color: #fff;
+
+}
+a{
+	text-decoration: none;
+	color: inherit;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+header{
+	
+}
+header h1 {
+	
+	float: left;
+	padding: 15px 0;
+	color: darkgreen;
+}
+header ul {
+	
+	float: right;
+	font-family: fantasy;
+}
+header ul li{
+	display: inline-block;
+
+}
+header ul li a{
+	padding: 25px 25px;
+	display: inline-block;
+	font-size: 12px;
+}
+header ul li a:hover{
+	background-color: rgb(37, 118, 24);
+	color: white;
+}
+.active{
+	background-color: rgb(37, 118, 24);
+	color: white;}
+h4{
+	margin-right: 40px;
+}
+.he{
+	margin-top: 100px;
+}
